@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\bin\Debug\net7.0\DirectrizEstilo.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\bin\Debug\net7.0\DirectrizEstilo.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\bin\Debug\net7.0\DirectrizEstilo.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\bin\Debug\net7.0\DirectrizEstilo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\bin\Debug\net7.0\DirectrizEstilo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\refint\DirectrizEstilo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\DirectrizEstilo.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DirectrizEstilo\obj\Debug\net7.0\ref\DirectrizEstilo.dll
