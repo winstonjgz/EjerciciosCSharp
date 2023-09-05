@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\bin\Debug\net7.0\DeteccionFraudesDesafio.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\bin\Debug\net7.0\DeteccionFraudesDesafio.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\bin\Debug\net7.0\DeteccionFraudesDesafio.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\bin\Debug\net7.0\DeteccionFraudesDesafio.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\bin\Debug\net7.0\DeteccionFraudesDesafio.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\refint\DeteccionFraudesDesafio.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\DeteccionFraudesDesafio.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudesDesafio\obj\Debug\net7.0\ref\DeteccionFraudesDesafio.dll

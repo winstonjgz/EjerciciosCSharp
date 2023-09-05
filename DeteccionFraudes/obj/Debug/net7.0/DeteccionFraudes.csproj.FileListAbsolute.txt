@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\bin\Debug\net7.0\DeteccionFraudes.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\bin\Debug\net7.0\DeteccionFraudes.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\bin\Debug\net7.0\DeteccionFraudes.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\bin\Debug\net7.0\DeteccionFraudes.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\bin\Debug\net7.0\DeteccionFraudes.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\refint\DeteccionFraudes.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\DeteccionFraudes.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DeteccionFraudes\obj\Debug\net7.0\ref\DeteccionFraudes.dll

@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\bin\Debug\net7.0\Testproject.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\bin\Debug\net7.0\Testproject.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\bin\Debug\net7.0\Testproject.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\bin\Debug\net7.0\Testproject.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\bin\Debug\net7.0\Testproject.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\refint\Testproject.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\Testproject.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\Testproject\obj\Debug\net7.0\ref\Testproject.dll

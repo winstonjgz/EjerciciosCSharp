@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\bin\Debug\net7.0\MatrizdeNumeros.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\bin\Debug\net7.0\MatrizdeNumeros.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\bin\Debug\net7.0\MatrizdeNumeros.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\bin\Debug\net7.0\MatrizdeNumeros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\bin\Debug\net7.0\MatrizdeNumeros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\refint\MatrizdeNumeros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\MatrizdeNumeros.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MatrizdeNumeros\obj\Debug\net7.0\ref\MatrizdeNumeros.dll

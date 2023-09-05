@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\bin\Debug\net7.0\TasaRenovacion.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\bin\Debug\net7.0\TasaRenovacion.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\bin\Debug\net7.0\TasaRenovacion.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\bin\Debug\net7.0\TasaRenovacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\bin\Debug\net7.0\TasaRenovacion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\refint\TasaRenovacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\TasaRenovacion.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TasaRenovacion\obj\Debug\net7.0\ref\TasaRenovacion.dll
