@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\bin\Debug\net7.0\CaraOCruz.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\bin\Debug\net7.0\CaraOCruz.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\bin\Debug\net7.0\CaraOCruz.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\bin\Debug\net7.0\CaraOCruz.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\bin\Debug\net7.0\CaraOCruz.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\refint\CaraOCruz.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\CaraOCruz.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CaraOCruz\obj\Debug\net7.0\ref\CaraOCruz.dll

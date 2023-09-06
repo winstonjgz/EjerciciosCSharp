@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\bin\Debug\net7.0\PermisosyNiveles.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\bin\Debug\net7.0\PermisosyNiveles.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\bin\Debug\net7.0\PermisosyNiveles.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\bin\Debug\net7.0\PermisosyNiveles.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\bin\Debug\net7.0\PermisosyNiveles.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\refint\PermisosyNiveles.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\PermisosyNiveles.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PermisosyNiveles\obj\Debug\net7.0\ref\PermisosyNiveles.dll
