@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\bin\Debug\net7.0\DesafioRol.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\bin\Debug\net7.0\DesafioRol.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\bin\Debug\net7.0\DesafioRol.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\bin\Debug\net7.0\DesafioRol.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\bin\Debug\net7.0\DesafioRol.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\refint\DesafioRol.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\DesafioRol.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioRol\obj\Debug\net7.0\ref\DesafioRol.dll

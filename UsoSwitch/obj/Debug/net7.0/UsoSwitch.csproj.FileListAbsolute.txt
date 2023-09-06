@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\bin\Debug\net7.0\UsoSwitch.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\bin\Debug\net7.0\UsoSwitch.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\bin\Debug\net7.0\UsoSwitch.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\bin\Debug\net7.0\UsoSwitch.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\bin\Debug\net7.0\UsoSwitch.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\refint\UsoSwitch.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\UsoSwitch.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\UsoSwitch\obj\Debug\net7.0\ref\UsoSwitch.dll

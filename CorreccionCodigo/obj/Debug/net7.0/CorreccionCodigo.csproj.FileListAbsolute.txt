@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\bin\Debug\net7.0\CorreccionCodigo.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\bin\Debug\net7.0\CorreccionCodigo.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\bin\Debug\net7.0\CorreccionCodigo.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\bin\Debug\net7.0\CorreccionCodigo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\bin\Debug\net7.0\CorreccionCodigo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\refint\CorreccionCodigo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\CorreccionCodigo.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\CorreccionCodigo\obj\Debug\net7.0\ref\CorreccionCodigo.dll
