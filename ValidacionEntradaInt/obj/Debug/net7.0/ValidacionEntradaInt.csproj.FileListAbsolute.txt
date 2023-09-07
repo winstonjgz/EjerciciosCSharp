@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\bin\Debug\net7.0\ValidacionEntradaInt.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\bin\Debug\net7.0\ValidacionEntradaInt.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\bin\Debug\net7.0\ValidacionEntradaInt.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\bin\Debug\net7.0\ValidacionEntradaInt.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\bin\Debug\net7.0\ValidacionEntradaInt.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\refint\ValidacionEntradaInt.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ValidacionEntradaInt.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaInt\obj\Debug\net7.0\ref\ValidacionEntradaInt.dll

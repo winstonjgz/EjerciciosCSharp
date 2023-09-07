@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\bin\Debug\net7.0\ValidacionEntradaCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\bin\Debug\net7.0\ValidacionEntradaCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\bin\Debug\net7.0\ValidacionEntradaCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\bin\Debug\net7.0\ValidacionEntradaCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\bin\Debug\net7.0\ValidacionEntradaCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\refint\ValidacionEntradaCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ValidacionEntradaCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionEntradaCadena\obj\Debug\net7.0\ref\ValidacionEntradaCadena.dll

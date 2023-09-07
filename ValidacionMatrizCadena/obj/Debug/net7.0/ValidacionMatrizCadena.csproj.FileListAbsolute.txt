@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\bin\Debug\net7.0\ValidacionMatrizCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\bin\Debug\net7.0\ValidacionMatrizCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\bin\Debug\net7.0\ValidacionMatrizCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\bin\Debug\net7.0\ValidacionMatrizCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\bin\Debug\net7.0\ValidacionMatrizCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\refint\ValidacionMatrizCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ValidacionMatrizCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ValidacionMatrizCadena\obj\Debug\net7.0\ref\ValidacionMatrizCadena.dll

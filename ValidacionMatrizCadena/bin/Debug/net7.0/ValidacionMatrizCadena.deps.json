@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ValidacionMatrizCadena/1.0.0": {
+        "runtime": {
+          "ValidacionMatrizCadena.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValidacionMatrizCadena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
