@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\bin\Debug\net7.0\TiendaMascotas.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\bin\Debug\net7.0\TiendaMascotas.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\bin\Debug\net7.0\TiendaMascotas.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\bin\Debug\net7.0\TiendaMascotas.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\bin\Debug\net7.0\TiendaMascotas.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\refint\TiendaMascotas.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\TiendaMascotas.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiendaMascotas\obj\Debug\net7.0\ref\TiendaMascotas.dll
