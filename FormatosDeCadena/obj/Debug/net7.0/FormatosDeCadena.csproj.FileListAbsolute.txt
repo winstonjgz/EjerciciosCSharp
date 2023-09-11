@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\bin\Debug\net7.0\FormatosDeCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\bin\Debug\net7.0\FormatosDeCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\bin\Debug\net7.0\FormatosDeCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\bin\Debug\net7.0\FormatosDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\bin\Debug\net7.0\FormatosDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\refint\FormatosDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\FormatosDeCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\FormatosDeCadena\obj\Debug\net7.0\ref\FormatosDeCadena.dll

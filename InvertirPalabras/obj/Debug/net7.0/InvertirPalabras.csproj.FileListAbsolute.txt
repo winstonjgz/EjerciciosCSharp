@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\bin\Debug\net7.0\InvertirPalabras.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\bin\Debug\net7.0\InvertirPalabras.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\bin\Debug\net7.0\InvertirPalabras.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\bin\Debug\net7.0\InvertirPalabras.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\bin\Debug\net7.0\InvertirPalabras.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\refint\InvertirPalabras.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\InvertirPalabras.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InvertirPalabras\obj\Debug\net7.0\ref\InvertirPalabras.dll

@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\bin\Debug\net7.0\RellenoAlineacion.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\bin\Debug\net7.0\RellenoAlineacion.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\bin\Debug\net7.0\RellenoAlineacion.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\bin\Debug\net7.0\RellenoAlineacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\bin\Debug\net7.0\RellenoAlineacion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\refint\RellenoAlineacion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\RellenoAlineacion.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RellenoAlineacion\obj\Debug\net7.0\ref\RellenoAlineacion.dll

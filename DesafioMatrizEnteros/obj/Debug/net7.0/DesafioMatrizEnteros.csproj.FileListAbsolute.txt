@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\bin\Debug\net7.0\DesafioMatrizEnteros.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\bin\Debug\net7.0\DesafioMatrizEnteros.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\bin\Debug\net7.0\DesafioMatrizEnteros.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\bin\Debug\net7.0\DesafioMatrizEnteros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\bin\Debug\net7.0\DesafioMatrizEnteros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\refint\DesafioMatrizEnteros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\DesafioMatrizEnteros.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMatrizEnteros\obj\Debug\net7.0\ref\DesafioMatrizEnteros.dll

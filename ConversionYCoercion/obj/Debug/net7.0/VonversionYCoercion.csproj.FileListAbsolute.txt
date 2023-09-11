@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\bin\Debug\net7.0\VonversionYCoercion.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\bin\Debug\net7.0\VonversionYCoercion.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\bin\Debug\net7.0\VonversionYCoercion.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\bin\Debug\net7.0\VonversionYCoercion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\bin\Debug\net7.0\VonversionYCoercion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\refint\VonversionYCoercion.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\VonversionYCoercion.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\ConversionYCoercion\obj\Debug\net7.0\ref\VonversionYCoercion.dll

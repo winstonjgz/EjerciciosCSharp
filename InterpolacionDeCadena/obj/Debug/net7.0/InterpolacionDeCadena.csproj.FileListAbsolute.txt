@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\bin\Debug\net7.0\InterpolacionDeCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\bin\Debug\net7.0\InterpolacionDeCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\bin\Debug\net7.0\InterpolacionDeCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\bin\Debug\net7.0\InterpolacionDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\bin\Debug\net7.0\InterpolacionDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\refint\InterpolacionDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\InterpolacionDeCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\InterpolacionDeCadena\obj\Debug\net7.0\ref\InterpolacionDeCadena.dll

@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\bin\Debug\net7.0\GestiondePedidos.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\bin\Debug\net7.0\GestiondePedidos.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\bin\Debug\net7.0\GestiondePedidos.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\bin\Debug\net7.0\GestiondePedidos.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\bin\Debug\net7.0\GestiondePedidos.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\refint\GestiondePedidos.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\GestiondePedidos.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\GestiondePedidos\obj\Debug\net7.0\ref\GestiondePedidos.dll

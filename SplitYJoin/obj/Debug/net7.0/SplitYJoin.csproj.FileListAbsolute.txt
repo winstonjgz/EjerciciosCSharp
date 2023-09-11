@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\bin\Debug\net7.0\SplitYJoin.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\bin\Debug\net7.0\SplitYJoin.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\bin\Debug\net7.0\SplitYJoin.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\bin\Debug\net7.0\SplitYJoin.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\bin\Debug\net7.0\SplitYJoin.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\refint\SplitYJoin.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\SplitYJoin.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SplitYJoin\obj\Debug\net7.0\ref\SplitYJoin.dll

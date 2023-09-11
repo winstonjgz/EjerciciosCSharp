@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\bin\Debug\net7.0\TiposDeValores.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\bin\Debug\net7.0\TiposDeValores.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\bin\Debug\net7.0\TiposDeValores.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\bin\Debug\net7.0\TiposDeValores.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\bin\Debug\net7.0\TiposDeValores.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\refint\TiposDeValores.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\TiposDeValores.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\TiposDeValores\obj\Debug\net7.0\ref\TiposDeValores.dll

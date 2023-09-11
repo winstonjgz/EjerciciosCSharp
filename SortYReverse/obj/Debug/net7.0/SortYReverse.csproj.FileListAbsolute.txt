@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\bin\Debug\net7.0\SortYReverse.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\bin\Debug\net7.0\SortYReverse.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\bin\Debug\net7.0\SortYReverse.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\bin\Debug\net7.0\SortYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\bin\Debug\net7.0\SortYReverse.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\refint\SortYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\SortYReverse.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\SortYReverse\obj\Debug\net7.0\ref\SortYReverse.dll
