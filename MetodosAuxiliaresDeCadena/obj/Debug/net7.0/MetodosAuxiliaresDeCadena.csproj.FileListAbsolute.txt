@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\bin\Debug\net7.0\MetodosAuxiliaresDeCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\bin\Debug\net7.0\MetodosAuxiliaresDeCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\bin\Debug\net7.0\MetodosAuxiliaresDeCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\bin\Debug\net7.0\MetodosAuxiliaresDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\bin\Debug\net7.0\MetodosAuxiliaresDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\refint\MetodosAuxiliaresDeCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\MetodosAuxiliaresDeCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosAuxiliaresDeCadena\obj\Debug\net7.0\ref\MetodosAuxiliaresDeCadena.dll

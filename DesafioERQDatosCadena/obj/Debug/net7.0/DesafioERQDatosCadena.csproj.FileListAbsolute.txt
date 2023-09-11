@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\bin\Debug\net7.0\DesafioERQDatosCadena.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\bin\Debug\net7.0\DesafioERQDatosCadena.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\bin\Debug\net7.0\DesafioERQDatosCadena.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\bin\Debug\net7.0\DesafioERQDatosCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\bin\Debug\net7.0\DesafioERQDatosCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\refint\DesafioERQDatosCadena.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\DesafioERQDatosCadena.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioERQDatosCadena\obj\Debug\net7.0\ref\DesafioERQDatosCadena.dll

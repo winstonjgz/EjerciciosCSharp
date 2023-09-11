@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\bin\Debug\net7.0\RemoveYReverse.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\bin\Debug\net7.0\RemoveYReverse.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\bin\Debug\net7.0\RemoveYReverse.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\bin\Debug\net7.0\RemoveYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\bin\Debug\net7.0\RemoveYReverse.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\refint\RemoveYReverse.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\RemoveYReverse.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\RemoveYReverse\obj\Debug\net7.0\ref\RemoveYReverse.dll
