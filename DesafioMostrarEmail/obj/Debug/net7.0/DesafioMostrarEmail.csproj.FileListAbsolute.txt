@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\bin\Debug\net7.0\DesafioMostrarEmail.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\bin\Debug\net7.0\DesafioMostrarEmail.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\bin\Debug\net7.0\DesafioMostrarEmail.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\bin\Debug\net7.0\DesafioMostrarEmail.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\bin\Debug\net7.0\DesafioMostrarEmail.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\refint\DesafioMostrarEmail.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\DesafioMostrarEmail.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMostrarEmail\obj\Debug\net7.0\ref\DesafioMostrarEmail.dll

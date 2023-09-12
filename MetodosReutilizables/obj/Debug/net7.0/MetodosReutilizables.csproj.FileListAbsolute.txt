@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\bin\Debug\net7.0\MetodosReutilizables.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\bin\Debug\net7.0\MetodosReutilizables.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\bin\Debug\net7.0\MetodosReutilizables.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\bin\Debug\net7.0\MetodosReutilizables.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\bin\Debug\net7.0\MetodosReutilizables.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\refint\MetodosReutilizables.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\MetodosReutilizables.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodosReutilizables\obj\Debug\net7.0\ref\MetodosReutilizables.dll

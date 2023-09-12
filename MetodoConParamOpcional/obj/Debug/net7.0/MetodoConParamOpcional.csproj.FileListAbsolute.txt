@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\bin\Debug\net7.0\MetodoConParamOpcional.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\bin\Debug\net7.0\MetodoConParamOpcional.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\bin\Debug\net7.0\MetodoConParamOpcional.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\bin\Debug\net7.0\MetodoConParamOpcional.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\bin\Debug\net7.0\MetodoConParamOpcional.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\refint\MetodoConParamOpcional.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\MetodoConParamOpcional.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParamOpcional\obj\Debug\net7.0\ref\MetodoConParamOpcional.dll

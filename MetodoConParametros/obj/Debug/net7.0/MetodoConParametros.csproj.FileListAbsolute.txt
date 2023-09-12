@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\bin\Debug\net7.0\MetodoConParametros.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\bin\Debug\net7.0\MetodoConParametros.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\bin\Debug\net7.0\MetodoConParametros.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\bin\Debug\net7.0\MetodoConParametros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\bin\Debug\net7.0\MetodoConParametros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\refint\MetodoConParametros.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\MetodoConParametros.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConParametros\obj\Debug\net7.0\ref\MetodoConParametros.dll

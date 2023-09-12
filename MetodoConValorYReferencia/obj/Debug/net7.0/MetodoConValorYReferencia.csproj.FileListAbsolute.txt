@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\bin\Debug\net7.0\MetodoConValorYReferencia.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\bin\Debug\net7.0\MetodoConValorYReferencia.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\bin\Debug\net7.0\MetodoConValorYReferencia.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\bin\Debug\net7.0\MetodoConValorYReferencia.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\bin\Debug\net7.0\MetodoConValorYReferencia.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\refint\MetodoConValorYReferencia.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\MetodoConValorYReferencia.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoConValorYReferencia\obj\Debug\net7.0\ref\MetodoConValorYReferencia.dll

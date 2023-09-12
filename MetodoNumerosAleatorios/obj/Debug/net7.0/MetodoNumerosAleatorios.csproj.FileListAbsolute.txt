@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\bin\Debug\net7.0\MetodoNumerosAleatorios.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\bin\Debug\net7.0\MetodoNumerosAleatorios.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\bin\Debug\net7.0\MetodoNumerosAleatorios.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\bin\Debug\net7.0\MetodoNumerosAleatorios.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\bin\Debug\net7.0\MetodoNumerosAleatorios.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\refint\MetodoNumerosAleatorios.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\MetodoNumerosAleatorios.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\MetodoNumerosAleatorios\obj\Debug\net7.0\ref\MetodoNumerosAleatorios.dll
