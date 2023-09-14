@@ -78,4 +78,4 @@ System.Console.WriteLine(int.Parse(numbers1));
 System.Console.WriteLine(!(true&&false));
 
 System.Console.WriteLine(numbers1.ToString());
-System.Console.WriteLine(numbers1.ToString("0.##"));
+//System.Console.WriteLine(numbers1.ToString("0.##"));
