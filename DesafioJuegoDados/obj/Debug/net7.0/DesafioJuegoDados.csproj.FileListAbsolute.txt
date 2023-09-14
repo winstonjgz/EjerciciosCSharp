@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\bin\Debug\net7.0\DesafioJuegoDados.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\bin\Debug\net7.0\DesafioJuegoDados.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\bin\Debug\net7.0\DesafioJuegoDados.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\bin\Debug\net7.0\DesafioJuegoDados.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\bin\Debug\net7.0\DesafioJuegoDados.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\refint\DesafioJuegoDados.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\DesafioJuegoDados.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioJuegoDados\obj\Debug\net7.0\ref\DesafioJuegoDados.dll

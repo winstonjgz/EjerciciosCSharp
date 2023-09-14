@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\bin\Debug\net7.0\DesafioMiniGameFood.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\bin\Debug\net7.0\DesafioMiniGameFood.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\bin\Debug\net7.0\DesafioMiniGameFood.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\bin\Debug\net7.0\DesafioMiniGameFood.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\bin\Debug\net7.0\DesafioMiniGameFood.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\refint\DesafioMiniGameFood.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\DesafioMiniGameFood.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\DesafioMiniGameFood\obj\Debug\net7.0\ref\DesafioMiniGameFood.dll

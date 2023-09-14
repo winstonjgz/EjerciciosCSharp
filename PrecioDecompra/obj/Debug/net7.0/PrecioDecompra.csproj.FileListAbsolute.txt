@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\bin\Debug\net7.0\PrecioDecompra.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\bin\Debug\net7.0\PrecioDecompra.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\bin\Debug\net7.0\PrecioDecompra.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\bin\Debug\net7.0\PrecioDecompra.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\bin\Debug\net7.0\PrecioDecompra.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\refint\PrecioDecompra.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\PrecioDecompra.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\PrecioDecompra\obj\Debug\net7.0\ref\PrecioDecompra.dll

@@ -1,0 +1,14 @@
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.AssemblyInfoInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.AssemblyInfo.cs
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.csproj.CoreCompileInputs.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\bin\Debug\net7.0\VisitaZoo.exe
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\bin\Debug\net7.0\VisitaZoo.deps.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\bin\Debug\net7.0\VisitaZoo.runtimeconfig.json
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\bin\Debug\net7.0\VisitaZoo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\bin\Debug\net7.0\VisitaZoo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\refint\VisitaZoo.dll
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.pdb
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\VisitaZoo.genruntimeconfig.cache
+C:\Users\wgsig\Documents\DotNet\CsharpProjects\VisitaZoo\obj\Debug\net7.0\ref\VisitaZoo.dll
